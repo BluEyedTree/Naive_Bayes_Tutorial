@@ -30,7 +30,6 @@ This project contains 2 files and 2 folder:
 
 - `report.ipynb`: This is the main file where I have performed my work on the project.
 - `data`: The project dataset. I have loaded this data in the notebook..
-- `export/` : Folder containing HTML and PDF version file of notebook.
 - `images/` : Contains Images which are displayed in `report.ipynb` file.
 
 #### Dataset file
